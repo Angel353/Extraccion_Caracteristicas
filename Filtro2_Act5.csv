@@ -1,0 +1,116 @@
+,282_payment_method_that_purchase,283_fulfill_needs,299_means_transportation_consumer,indicate_the_type_of_store,81_number_online_purchases_month,309_wiretransfers_in_store,286_topups,240_gender_interviewee
+0,Efectivo,no,A pie,Cafeteria,1,no,No lo hago,Male
+1,Efectivo,yes,A pie,Grocery store (aka. nanostore),1,no,Tienda de conveniencia (e.g. OXXO),Female
+2,Efectivo,yes,Automóvil,Micro-restaurant (aka. fondita),0,no,"Supermercado,Tienda de conveniencia (e.g. OXXO)",Female
+3,Tarjeta de débito y/o crédito,yes,Motocicleta,Cafeteria,2,no,No lo hago,Female
+4,Efectivo,yes,Transporte público,Cafeteria,2,no,Supermercado,Female
+5,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),0,no,Tienda de conveniencia (e.g. OXXO),Female
+6,Efectivo,yes,Automóvil,Artículos del hogar,1,no,"Supermercado,Tienda de conveniencia (e.g. OXXO)",Female
+7,Efectivo,yes,Transporte público,Butcher shop,1,yes,Tienda de conveniencia (e.g. OXXO),Female
+8,Efectivo,yes,A pie,Grocery store (aka. nanostore),0,yes,"Fonda,Tiendita",Male
+9,Efectivo,yes,A pie,Grocery store (aka. nanostore),1,yes,"Tienda de conveniencia (e.g. OXXO),Tiendita",Female
+10,Efectivo,yes,Automóvil,Grocery store (aka. nanostore),2,yes,No lo hago,Male
+11,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),0,yes,Tienda de conveniencia (e.g. OXXO),Female
+12,Efectivo,yes,A pie,Butcher shop,1,no,"Tienda de conveniencia (e.g. OXXO),Tiendita",Male
+13,Efectivo,yes,A pie,Butcher shop,2,no,Tienda de conveniencia (e.g. OXXO),Female
+14,Efectivo,yes,A pie,Grocery store (aka. nanostore),2,no,"Tienda de conveniencia (e.g. OXXO),Tiendita",Male
+15,Efectivo,yes,A pie,Grocery store (aka. nanostore),1,no,No lo hago,Male
+16,Efectivo,yes,A pie,Grocery store (aka. nanostore),2,no,Tienda de conveniencia (e.g. OXXO),Male
+17,Efectivo,yes,A pie,Dairy products,0,no,"Tienda de conveniencia (e.g. OXXO),Tiendita",Female
+18,Efectivo,yes,A pie,Grocery store (aka. nanostore),2,no,Tienda de conveniencia (e.g. OXXO),Male
+19,Transferencia interbancaria,no,A pie,Produce (fruits & vegetables),0,no,No lo hago,Male
+20,Efectivo,yes,Automóvil,Produce (fruits & vegetables),3,no,No lo hago,Female
+21,Efectivo,yes,Automóvil,Grocery store (aka. nanostore),2,no,Tienda de conveniencia (e.g. OXXO),Male
+22,Efectivo,yes,A pie,Dairy products,0,Desconocido,Tienda de conveniencia (e.g. OXXO),Female
+23,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),2,no,No lo hago,Male
+24,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),1,no,No lo hago,Male
+25,Tarjeta de débito y/o crédito,yes,Automóvil,Micro-restaurant (aka. fondita),1,no,No lo hago,Male
+26,Tarjeta de débito y/o crédito,yes,A pie,Grocery store (aka. nanostore),0,no,No lo hago,Male
+27,Transferencia interbancaria,yes,Automóvil,Micro-restaurant (aka. fondita),8,yes,Plan ,Female
+28,Tarjeta de débito y/o crédito,yes,Automóvil,Grocery store (aka. nanostore),2,yes,Tienda de conveniencia (e.g. OXXO),Male
+29,Efectivo,yes,Transporte público,Cafeteria,1,no,Tienda de conveniencia (e.g. OXXO),Male
+30,Tarjeta de débito y/o crédito,yes,Automóvil,Cafeteria,5,no,Tienda de conveniencia (e.g. OXXO),Male
+31,Efectivo,yes,A pie,Grocery store (aka. nanostore),0,yes,Tienda de conveniencia (e.g. OXXO),Female
+32,Efectivo,yes,Automóvil,Produce (fruits & vegetables),1,no,Tienda de conveniencia (e.g. OXXO),Female
+33,Efectivo,yes,Automóvil,Grocery store (aka. nanostore),6,no,Tienda de conveniencia (e.g. OXXO),Male
+34,Efectivo,yes,A pie,Grocery store (aka. nanostore),2,yes,Tienda de conveniencia (e.g. OXXO),Male
+35,Efectivo,yes,A pie,Grocery store (aka. nanostore),0,no,"Farmacia ,Tienda de conveniencia (e.g. OXXO)",Female
+36,Efectivo,yes,A pie,Micro-restaurant (aka. fondita),3,no,App,Female
+37,Efectivo,yes,A pie,Grocery store (aka. nanostore),2,no,No lo hago,Female
+38,Efectivo,yes,Transporte público,Micro-restaurant (aka. fondita),4,no,Tienda de conveniencia (e.g. OXXO),Female
+39,Efectivo,yes,Transporte público,Micro-restaurant (aka. fondita),2,no,No lo hago,Male
+40,Efectivo,yes,Automóvil,Grocery store (aka. nanostore),2,no,Banco,Male
+41,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),0,no,Tienda de conveniencia (e.g. OXXO),Female
+42,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),0,no,No lo hago,Male
+43,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),4,no,En línea ,Male
+44,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),2,no,Tienda de conveniencia (e.g. OXXO),Female
+45,Efectivo,yes,A pie,Micro-restaurant (aka. fondita),3,yes,Banco,Male
+46,Efectivo,yes,A pie,Micro-restaurant (aka. fondita),6,yes,Tienda de conveniencia (e.g. OXXO),Male
+47,Efectivo,yes,Automóvil,Micro-restaurant (aka. fondita),1,no,Banco,Male
+48,Efectivo,yes,Automóvil,Cafeteria,5,no,Tienda de conveniencia (e.g. OXXO),Male
+49,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),0,no,No lo hago,Female
+50,Efectivo,yes,Transporte público,Produce (fruits & vegetables),0,no,Tienda de conveniencia (e.g. OXXO),Male
+51,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),1,no,Tienda de conveniencia (e.g. OXXO),Male
+52,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),7,no,En línea ,Male
+53,Efectivo,yes,A pie,Grocery store (aka. nanostore),2,no,Tienda de conveniencia (e.g. OXXO),Male
+54,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),3,no,Tienda de conveniencia (e.g. OXXO),Male
+55,Efectivo,yes,A pie,Cafeteria,0,no,Tienda de conveniencia (e.g. OXXO),Female
+56,Efectivo,yes,Transporte público,Micro-restaurant (aka. fondita),0,no,Tienda de conveniencia (e.g. OXXO),Female
+57,Efectivo,yes,Automóvil,Micro-restaurant (aka. fondita),0,no,Tienda de conveniencia (e.g. OXXO),Male
+58,Efectivo,yes,A pie,Butcher shop,0,yes,Fonda,Female
+59,Efectivo,yes,A pie,Micro-restaurant (aka. fondita),2,yes,Fonda,Male
+60,Efectivo,yes,Transporte público,Produce (fruits & vegetables),2,yes,Tienda de conveniencia (e.g. OXXO),Male
+61,Efectivo,yes,Automóvil,Micro-restaurant (aka. fondita),30,yes,Tienda de conveniencia (e.g. OXXO),Male
+62,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),0,no,Tienda de conveniencia (e.g. OXXO),Female
+63,Efectivo,yes,Transporte público,Micro-restaurant (aka. fondita),3,yes,Tienda de conveniencia (e.g. OXXO),Female
+64,Efectivo,yes,Transporte público,Cafeteria,2,yes,No lo hago,Male
+65,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),10,yes,Tienda de conveniencia (e.g. OXXO),Male
+66,Efectivo,yes,Transporte público,Produce (fruits & vegetables),2,yes,Fonda,Male
+67,Tarjeta de débito y/o crédito,yes,Transporte público,Grocery store (aka. nanostore),5,no,Tienda de conveniencia (e.g. OXXO),Male
+68,Efectivo,yes,Automóvil,Grocery store (aka. nanostore),2,no,Supermercado,Female
+69,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),1,no,Tienda de conveniencia (e.g. OXXO),Male
+70,Efectivo,yes,Transporte público,Grocery store (aka. nanostore),2,no,Tienda de conveniencia (e.g. OXXO),Male
+71,Efectivo,yes,A pie,Cafeteria,0,no,Banco,Female
+72,Efectivo,yes,Automóvil,Micro-restaurant (aka. fondita),2,no,Fonda,Female
+73,Efectivo,yes,Automóvil,Cafeteria,1,no,Tienda de conveniencia (e.g. OXXO),Female
+74,Efectivo,yes,A pie,Grocery store (aka. nanostore),2,no,No lo hago,Male
+75,Efectivo,yes,A pie,Micro-restaurant (aka. fondita),0,no,Tienda de conveniencia (e.g. OXXO),Male
+76,Tarjeta de débito y/o crédito,yes,Transporte público,Grocery store (aka. nanostore),2,no,No lo hago,Male
+77,Tarjeta de débito y/o crédito,yes,Automóvil,Cafeteria,5,no,Tienda de conveniencia (e.g. OXXO),Male
+78,Efectivo,yes,Automóvil,Micro-restaurant (aka. fondita),1,no,"Banco,Tienda de conveniencia (e.g. OXXO)",Male
+79,Transferencia interbancaria,yes,Bicicleta,Micro-restaurant (aka. fondita),1,no,"Mobile app,Tienda de conveniencia (e.g. OXXO)",Male
+80,Efectivo,yes,Automóvil,Micro-restaurant (aka. fondita),2,no,"App,Tienda de conveniencia (e.g. OXXO)",Female
+81,Efectivo,yes,A pie,Butcher shop,0,no,"Mobile app,Tienda de conveniencia (e.g. OXXO)",Female
+82,Transferencia interbancaria,yes,Automóvil,Micro-restaurant (aka. fondita),2,no,Tienda de conveniencia (e.g. OXXO),Male
+83,Tarjeta de débito y/o crédito,yes,Transporte público,Grocery store (aka. nanostore),1,Desconocido,Tienda de conveniencia (e.g. OXXO),Male
+84,Efectivo,yes,Motocicleta,Cafeteria,3,no,Mobile app,Female
+85,Efectivo,yes,A pie,Grocery store (aka. nanostore),0,no,Tienda de conveniencia (e.g. OXXO),Female
+86,Efectivo,yes,A pie,Produce (fruits & vegetables),1,no,Tienda de conveniencia (e.g. OXXO),Female
+87,Efectivo,yes,A pie,Dairy products,2,no,Tienda de conveniencia (e.g. OXXO),Female
+88,Efectivo,yes,Automóvil,Butcher shop,1,yes,Tienda de conveniencia (e.g. OXXO),Female
+89,No realizó compras,no,A pie,Grocery store (aka. nanostore),6,no,"Banco,Tienda de conveniencia (e.g. OXXO)",Female
+90,Efectivo,yes,A pie,Grocery store (aka. nanostore),1,no,"Tienda de conveniencia (e.g. OXXO),Tiendita",Female
+91,Efectivo,yes,A pie,Produce (fruits & vegetables),5,no,Tienda de conveniencia (e.g. OXXO),Female
+92,Efectivo,yes,Automóvil,Cafeteria,5,no,Mobile app,Male
+93,Efectivo,yes,Bicicleta,Grocery store (aka. nanostore),4,no,"Banco,Supermercado,Tienda de conveniencia (e.g. OXXO)",Male
+94,Efectivo,no,A pie,Grocery store (aka. nanostore),2,no,Tienda de conveniencia (e.g. OXXO),Male
+95,Efectivo,yes,A pie,Grocery store (aka. nanostore),5,no,"Tienda de conveniencia (e.g. OXXO),Tiendita",Female
+96,Efectivo,yes,A pie,Cafeteria,4,no,Tiendita,Female
+97,Tarjeta de débito y/o crédito,yes,A pie,Grocery store (aka. nanostore),6,yes,Tienda de conveniencia (e.g. OXXO),Female
+98,Efectivo,no,Automóvil,Grocery store (aka. nanostore),0,no,Tienda de conveniencia (e.g. OXXO),Male
+99,Tarjeta de débito y/o crédito,yes,A pie,Dairy products,2,no,No lo hago,Male
+100,Tarjeta de débito y/o crédito,yes,A pie,Micro-restaurant (aka. fondita),2,no,Plan telefónico ,Male
+101,Efectivo,yes,A pie,Grocery store (aka. nanostore),0,no,No lo hago,Male
+102,Tarjeta de débito y/o crédito,yes,Automóvil,Micro-restaurant (aka. fondita),6,no,No lo hago,Male
+103,Tarjeta de débito y/o crédito,yes,Automóvil,Micro-restaurant (aka. fondita),8,no,No lo hago,Male
+104,Efectivo,yes,Automóvil,Produce (fruits & vegetables),0,no,No lo hago,Female
+105,Efectivo,yes,A pie,Grocery store (aka. nanostore),2,no,Tiendita,Female
+106,Tarjeta de débito y/o crédito,yes,didi,Micro-restaurant (aka. fondita),5,no,"Tienda de conveniencia (e.g. OXXO),Tiendita",Female
+107,Tarjeta de débito y/o crédito,no,Automóvil,Dairy products,10,yes,No lo hago,Male
+108,Efectivo,yes,Automóvil,Grocery store (aka. nanostore),8,yes,No lo hago,Male
+109,Efectivo,yes,Automóvil,Grocery store (aka. nanostore),10,yes,No lo hago,Male
+110,Efectivo,yes,Automóvil,Micro-restaurant (aka. fondita),15,no,No lo hago,Male
+111,Efectivo,yes,Transporte público,Cafeteria,1,no,No lo hago,Female
+112,Efectivo,yes,A pie,Cafeteria,3,no,Tienda de conveniencia (e.g. OXXO),Male
+113,Efectivo,yes,Didi,Cafeteria,2,no,Tienda de conveniencia (e.g. OXXO),Male
+114,Efectivo,yes,Transporte público,Cafeteria,0,no,No lo hago,Male
